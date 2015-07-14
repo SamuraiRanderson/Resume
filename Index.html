@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Resume</title>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+  <link href="css/style.css" rel="stylesheet" type="text/css">
+  <!-- <link href="css/bootstrap.css" rel="stylesheet" type="text/css"> -->
+  <link rel="icon" href="images/skull.JPG" type="image/JPG">
+  <script type="js/bootstrap.js"></script>
+  <script src="js/jQuery.js"></script>
+  <script src="js/helper.js"></script>
+  <script src="js/interaction.js"></script>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places"></script>
+  <meta name="viewport" content="width=device-width">
+</head>
+<body unresolved>
+  <div id="main">
+    <div id="header" class="left-content clearfix">
+      <div id="topContacts" class='contact-box'>
+        <!-- <a href="https://github.com/SamuraiRanderson"><i class="fa fa-github-alt fa-2x"></i></a>
+        <a href="www.linkedin.com/in/robertcanderson5"><i class="fa fa-linkedin-square fa-2x"></i></a>
+        <a href="robtanderson4@gmail.com"><i class="fa fa-envelope fa-2x"></i></a>
+        <a href=""><i class="fa fa-mobile-phone fa-2x"></i></a> -->
+      </div>
+    </div>
+    <nav id="nav-bar">
+        <ul id="nav-menu">
+          <li><a class="nav-item" href="#workExperience">WORK</a>
+          </li>
+          <li><a class="nav-item" href="#projects">PROJECTS</a>
+          </li>
+          <li><a class="nav-item" href="#education">EDU</a>
+          </li>
+        </ul>
+    </nav>
+    <div style='clear: both;'></div>
+    <div id="summary">
+       <h2>Summary</h2>
+    </div>
+    <div id="workExperience" class='gray'>
+      <h2>Work Experience</h2>
+    </div>
+    <div id="projects">
+      <h2>Projects</h2>
+    </div>
+    <div id="education" class='gray'>
+      <h2>Education</h2>
+    </div>
+    <div id="mapDiv">
+      <h2>Where I've Lived and Worked</h2>
+    </div>
+    <div id="letsConnect" class='dark-gray'>
+      <h2 class='orange center-text'>Let's Connect</h2>
+        <ul id="footerContacts" class="footer-box">
+          <div class="navbar-text center">
+            <a href="https://github.com/SamuraiRanderson"><i class="fa fa-github-alt fa-2x"></i></a>
+            <a href="www.linkedin.com/in/robertcanderson5"><i class="fa fa-linkedin-square fa-2x"></i></a>
+            <a href="robtanderson4@gmail.com"><i class="fa fa-envelope fa-2x"></i></a>
+            <a href=""><i class="fa fa-mobile-phone fa-2x"></i></a>
+      </ul>
+    </div>
+  </div>
+  <script src="js/resumeBuilder.js"></script>
+  <script type="text/javascript">
+
+    document.getElementById("summary").style.backgroundColor = "white";
+    document.getElementById("education").style.backgroundColor = ".gray";
+    document.getElementById("projects").style.backgroundColor = "white";
+    document.getElementById("workExperience").style.backgroundColor = ".gray";
+    document.getElementById("mapDiv").style.backgroundColor = "white";
+
+    if(document.getElementsByClassName('flex-item').length === 0) {
+      document.getElementById('topContacts').style.display = 'none';
+    }
+    if(document.getElementsByTagName('h1').length === 0) {
+      document.getElementById('header').style.display = 'none';
+    }
+    if(document.getElementsByTagName('h1').length === 0) {
+      document.getElementById('header').style.display = 'none';
+    }
+    if(document.getElementsByClassName('summary-entry').length === 0) {
+      document.getElementById('summary').style.display = 'none';
+    }
+    if(document.getElementsByClassName('work-entry').length === 0) {
+      document.getElementById('workExperience').style.display = 'none';
+    }
+    if(document.getElementsByClassName('project-entry').length === 0) {
+      document.getElementById('projects').style.display = 'none';
+    }
+    if(document.getElementsByClassName('education-entry').length === 0) {
+      document.getElementById('education').style.display = 'none';
+    }
+    if(document.getElementsByClassName('flex-item').length === 0) {
+      document.getElementById('letsConnect').style.display = 'none';
+    }
+    if(document.getElementById('map') === 0) {
+      document.getElementById('mapDiv').style.display = 'none';
+    }
+  </script>
+</body>
+</html>
