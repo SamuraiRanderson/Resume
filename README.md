@@ -1,7 +1,7 @@
 ![P2 Resume Image](https://github.com/SamuraiRanderson/Resume/blob/master/images/p2.jpg)
 
 
-#Interactive Résumé
+#[Interactive Résumé](http://samurairanderson.github.io)
 
 This was the second project as part of Udacity's Front End Web Developer Nanodegree. I was tasked to create a online interactive résumé and required to write clean code and to apply my knowledge of variables, objects, JSON, functions and control flow. I used HTML5, CSS, JavaScript and jQuery to create a résumé which included images, links and incorporated Google Maps API into the final project.
 
