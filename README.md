@@ -6,4 +6,4 @@ I've come back to this project multiple times to update my résumé as I complet
 
 Click [**Here**](http://samurairanderson.github.io) To View!
 
-![P2 Resume Image](images/p2.jpg)
+![P2 Resume Image](images/p2.png)
