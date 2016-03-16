@@ -13,6 +13,6 @@
 
 ###Demo:
 
-Click [**Here**](http://samurairanderson.github.io) To View!
+Click [**Here**](http://samurairanderson.github.io/Resume/) To View!
 
 ![P2 Resume Image](dist/images/p2.min.png)
