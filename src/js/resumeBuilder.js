@@ -485,7 +485,7 @@ var projects = {
 		" jQuery to create a resume which included images, links and incorporated Google Maps API into the final project." +
 		" This was an excellent project to showcase the power of jQuery and how to use it to manipulate the DOM.",
 		"courses" : "JavaScript Basics, Intro to jQuery",
-		"images" : ["dist/images/p2.min.jpg"],
+		"images" : ["dist/images/p2.min.png"],
 		"url" : ["http://samurairanderson.github.io."]
 	},
 	{
