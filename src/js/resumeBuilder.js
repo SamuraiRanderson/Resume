@@ -151,18 +151,18 @@ var work = {
             "dates": "2013 - 2014",
             "url": "http://corporate.ppg.com/Home.aspx",
             "description": ["Promoted to Area Sales Manager for PPG's Houston Texas market." +
-						" Responsible for leading the PPG Houston market to exceed financial expectations" +
-						" while implementing improvement initiatives, both operational and financial, to ensure" +
-						" the market was growing in a profitable, and diversified manner, which resulted in Houston" +
-						" having the largest national sales increase, and PC increase, in 2013. <br><br>" + "My responsibilities included, but were not limited to:" +
-						"<br><br> •  Leading, managing and developing 30 members of the Houston team." +
-						"<br> •  Creating a new market segment focused sales team within the market." +
-						"<br> •  Implementing major product conversions into the market to increase profitability while reducing inventory." +
-						" These implementations resulted in an overnight boost to our bottom line." +
-						"<br> •  Working closely with Legal to create profitable multi-year contract agreements with Home Builders and act as a liaison during negotiations." +
-						"<br> •  Creating P&L statements to analyze existing, and prospective, customers to ensure profitable decisions were being made in the marketplace." +
-						"<br> •  Championing performing members of our organization, and coaching underperforming members, to maximize employee engagement." +
-						"<br> •  Lead by example to achieve results within an engaging, fun workplace. <br><br>"]
+            " Responsible for leading the PPG Houston market to exceed financial expectations" +
+            " while implementing improvement initiatives, both operational and financial, to ensure" +
+            " the market was growing in a profitable, and diversified manner, which resulted in Houston" +
+            " having the largest national sales increase, and PC increase, in 2013. <br><br>" + "My responsibilities included, but were not limited to:" +
+            "<br><br> •  Leading, managing and developing 30 members of the Houston team." +
+            "<br> •  Creating a new market segment focused sales team within the market." +
+            "<br> •  Implementing major product conversions into the market to increase profitability while reducing inventory." +
+            " These implementations resulted in an overnight boost to our bottom line." +
+            "<br> •  Working closely with Legal to create profitable multi-year contract agreements with Home Builders and act as a liaison during negotiations." +
+            "<br> •  Creating P&L statements to analyze existing, and prospective, customers to ensure profitable decisions were being made in the marketplace." +
+            "<br> •  Championing performing members of our organization, and coaching underperforming members, to maximize employee engagement." +
+            "<br> •  Lead by example to achieve results within an engaging, fun workplace. <br><br>"]
         },
         {
             "employer": "PPG Industries",
@@ -175,8 +175,8 @@ var work = {
             " to develop, and implement, profitable sales proposals with New Home Construction Builders throughout DFW. I called on the corporate offices of Home Builders," +
             " and worked with builder personnel and contractors in the field, to build strong relationships, act as a technical advisor as well as value sell PPG" +
             " in a very competitive marketplace. <br><br>" +
-						"•  Elected to PPG Architectural Leadership Summit 2011/2012.  This involved being seen as a leader within your market, and nominated by PPG Senior Management" +
-						" into a class of 30 out of approximately 5,000 eligible employees.<br><br>"]
+            "•  Elected to PPG Architectural Leadership Summit 2011/2012.  This involved being seen as a leader within your market, and nominated by PPG Senior Management" +
+            " into a class of 30 out of approximately 5,000 eligible employees.<br><br>"]
 
         },
         {
@@ -202,7 +202,7 @@ var work = {
             " I was able to grow my territory by opening new accounts, providing exceptional customer service to my existing customers, value selling PPG" +
             " as a business partnership. I was also able to increase sales and PC by selling the right products, at the right price, to meet my customers" +
             " expectations.<br><br>" +
-						"•	Awarded the STAR award at PPG Architectural University in 2009. Top of the class for 2009 – voted on by my 40 classmates.<br><br>"]
+            "• Awarded the STAR award at PPG Architectural University in 2009. Top of the class for 2009 – voted on by my 40 classmates.<br><br>"]
 
         },
         {
@@ -216,11 +216,11 @@ var work = {
             " relationships with all levels of their organization to solidify business within my territory and value selling Graco products as superior to their competition." +
             " I also conducted safety trainings, product demonstrations, job site start ups, represented Graco at trade shows and created inventory stocking guidelines for distributors" +
             " to ensure their inventory aligned with their sales and planned promotions.<br>" +
-						"<br>•	Awarded Presidents Club four times for outstanding sales growth." +
-						"<br>•	Managed a $6.5MM territory and increased key account growth by 48% while growing market share to 70% within the Dallas / Fort Worth Metroplex." +
-						"<br>•	Increased new developmental markets 288% by working with distributors to identify key untapped market segments in their area." +
-						"<br>•	Created an inventory matrix of recommended Graco inventory to be stocked by our distributors, aligning their inventory with their sales, which" +
-						" increased distributors sales while reducing inventory.<br><br>"]
+            "<br>• Awarded Presidents Club four times for outstanding sales growth." +
+            "<br>• Managed a $6.5MM territory and increased key account growth by 48% while growing market share to 70% within the Dallas / Fort Worth Metroplex." +
+            "<br>• Increased new developmental markets 288% by working with distributors to identify key untapped market segments in their area." +
+            "<br>• Created an inventory matrix of recommended Graco inventory to be stocked by our distributors, aligning their inventory with their sales, which" +
+            " increased distributors sales while reducing inventory.<br><br>"]
         }
     ]
 	};
