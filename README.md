@@ -15,4 +15,4 @@
 
 Click [**Here**](http://samurairanderson.github.io/Resume/) To View!
 
-![P2 Resume Image](dist/images/p2.min.png)
+![P2 Resume Image](src/images/p2.png)
