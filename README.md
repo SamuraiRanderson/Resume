@@ -1,6 +1,6 @@
-#Interactive Résumé
+# Interactive Résumé
 
-###Technologies Used:
+### Technologies Used:
 
 * HTML
 * CSS
@@ -11,7 +11,7 @@
 * Bootstrap
 * Responsive Design
 
-###Demo:
+### Demo:
 
 Click [**Here**](http://samurairanderson.github.io/Resume/) To View!
 
